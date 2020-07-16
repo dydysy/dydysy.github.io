@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dydysy&#39;s Blog</title>
-    <link>https://dydysy.github.io/tags/</link>
+    <link>https://dydysy.com/tags/</link>
     <description>Recent content in Tags on Dydysy&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>©2020 dydysy.com</copyright>
     
-	<atom:link href="https://dydysy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dydysy.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

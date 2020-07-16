@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://dydysy.github.io/sitemap.xml
+Sitemap: https://dydysy.com/sitemap.xml
